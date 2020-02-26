@@ -1,4 +1,4 @@
-
+//code by Kayley Seow
 const int TrigPin = 2;
 const int EchoPin  = 3;
 const int a = 8;
