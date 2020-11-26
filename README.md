@@ -12,6 +12,15 @@ This repository contains my code to make the Digital Ruler using an Arduino Uno,
 - [```Test1.ino```](https://github.com/kayleyseow/Digital-Ruler/blob/master/Accessory%20Tests/Four%20Seven-Segment%20Display%20Tests/Test1.ino) is the first four seven-segment test file. This file tests the digits one at a time.
 - [```Test2.ino```](https://github.com/kayleyseow/Digital-Ruler/blob/master/Accessory%20Tests/Four%20Seven-Segment%20Display%20Tests/Test2.ino) is the second four seven-segment test file. This file tests all the digits together.
 ### Materials List
+- 1 Arduino Uno
+  - I borrowed it from Mr. B, which came in a kit from [Vilros](vilros.com).  
+- 1 Breadboard
+- 1 Four Seven-Segment Display
+- 1 HC-SR04 Sensor
+- 8 4-Band Resistors
+  - From my kit, I chose the resistors with 330 Ohms with ± 5% Tolerance (Orange Orange Brown Gold)
+  - You need 8 to control the 8 different parts of the Seven-Segment Display (7 segments + 1 for decimal point)
+- 14 Jumper Wires (MM)
 ## Project Presentation
 ### Arduino Interface
 - Arduino has its own open source IDE which sends code to the connected Arduino board
