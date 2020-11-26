@@ -1,6 +1,6 @@
 # Digital Ruler
 **[Kayley Seow](https://github.com/kayleyseow)'s [APCSA](https://github.com/kayleyseow/APCSA) winter break project.  
-Project presentation slide deck [here](https://docs.google.com/presentation/d/1VwwwHEZ5v6SXcvky2djR5PzdAo9MC7fsc8c-qGKIjgI/edit?usp=sharing).**
+Shortcuts: [Introduction](https://github.com/kayleyseow/Digital-Ruler#introduction), [Photos and Demo](https://github.com/kayleyseow/Digital-Ruler#photos-and-demo), [Slide Deck](https://docs.google.com/presentation/d/1VwwwHEZ5v6SXcvky2djR5PzdAo9MC7fsc8c-qGKIjgI/edit?usp=sharing), [Project Presentation](https://github.com/kayleyseow/Digital-Ruler#project-presentation).**
 ## Introduction
 **TL;DR I made a ruler.**  
 ### About
