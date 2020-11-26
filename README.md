@@ -21,6 +21,7 @@ This repository contains my code to make the Digital Ruler using an Arduino Uno,
   - From my kit, I chose the resistors with 330 Ohms with ± 5% Tolerance (Orange Orange Brown Gold)
   - You need 8 to control the 8 different parts of the Seven-Segment Display (7 segments + 1 for decimal point)
 - 14 Jumper Wires (MM)
+## Photos and Demo
 ## Project Presentation
 ### Arduino Interface
 - Arduino has its own open source IDE which sends code to the connected Arduino board
