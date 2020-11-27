@@ -22,10 +22,13 @@ This repository contains my code to make the Digital Ruler using an Arduino Uno,
   - You need 8 to control the 8 different parts of the Seven-Segment Display (7 segments + 1 for decimal point)
 - 14 Jumper Wires (MM)
 ## Photos and Demo
+- **[Slide Deck with Photos](https://docs.google.com/presentation/d/1VwwwHEZ5v6SXcvky2djR5PzdAo9MC7fsc8c-qGKIjgI/edit?usp=sharing)**  
 - **Setup and Test of the HC-SR04 Sensor.** Left to Right: Top view of HC-SR04 Sensor, Sensor Setup with Data on Monitor, Top View of the Sensor Setup.  
 <img src="Assets/HCSTopView.jpg" alt="Photo of HC-SR04 Sensor, Top View" width=25%/> <img src="Assets/HCSSetupMonitor.jpg" alt="Photo of HC-SR04 Sensor Setup With Data Displayed on Monitor" width=25%/> <img src="Assets/HCSSetupTopView.jpg" alt="Photo of HC-SR04 Sensor Setup, Top View" width=44.5%/>  
 - **Testing the Four Seven-Segment Display.** Left to Right: Top View of FSSD, Testing the first digit of the FSSD, Testing all the digits of the FSSD, Combining both HC-SR04 Sensor and the Four Seven Segment Display (at this point the FSSD was not displaying the correct numbers).  
 <img src="Assets/FSSDTestSetup.jpg" alt="Photo of the Four Seven-Segment Display, Top View" width=25%/>  <img src="Assets/FSSDTestSingle.gif" alt="Testing First Digit of the Four Seven-Segment Display" width=18.75%/> <img src="Assets/FSSDTestAll.gif" alt="Testing All of the Digits of the Four Seven-Segment Display" width=18.75%/>  <img src="Assets/HCSFSSDCombined.jpg" alt="Combining both the HC-SR04 Sensor and the Four Seven Segment Display" width=25%/>  
+- **Demo and Final Setup of the Digital Ruler.** Left to Right: Demo of the Digital Ruler at 1cm increments, Demo of the Digital Ruler at a 5cm increment, Photo of the Complete Digital Ruler, Full photo of the complete Digital Ruler.     
+<img src="Assets/FinalTestLess.gif" alt="Demo of the Digital Ruler at 1cm increments" width=21%/> <img src="Assets/FinalTestMore.gif" alt="Demo of the Digital Ruler at a 5cm increment" width=21%/> <img src="Assets/DRFinalSetup.jpg" alt="Photo of the Complete Digital Ruler" width=28%/> <img src="Assets/DRFinalSetupZoomedOut.jpg" alt="Photo of the Complete Digital Ruler zoomed out for better view" width=28%/>  
 ## Project Presentation ([Original Presentation](https://docs.google.com/presentation/d/1VwwwHEZ5v6SXcvky2djR5PzdAo9MC7fsc8c-qGKIjgI/edit?usp=sharing))
 ### Arduino Interface
 - Arduino has its own open source IDE which sends code to the connected Arduino board
