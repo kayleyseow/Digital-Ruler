@@ -2,7 +2,11 @@
 **[Kayley Seow](https://github.com/kayleyseow)'s [APCSA](https://github.com/kayleyseow/APCSA) winter break project.  
 Shortcuts: [Introduction](https://github.com/kayleyseow/Digital-Ruler#introduction), [Photos and Demo](https://github.com/kayleyseow/Digital-Ruler#photos-and-demo), [Slide Deck](https://docs.google.com/presentation/d/1VwwwHEZ5v6SXcvky2djR5PzdAo9MC7fsc8c-qGKIjgI/edit?usp=sharing), [Project Presentation](https://github.com/kayleyseow/Digital-Ruler#project-presentation).**
 ## Introduction
-**TL;DR I made a ruler.**  
+**TL;DR I made a ruler — just take a look at this beauty!**  
+<p align="center">
+  <img src="Assets/TheDigitalRuler.jpg" alt="A photo of the one and only Digital Ruler" width=50%/>
+</p>  
+
 ### About
 This repository contains my code to make the Digital Ruler using an Arduino Uno, a four seven-segment display, and a HC-SR04 (an ultrasonic ranging module) sensor. The entirety of the project was created and built during winter break as my submission for Project GradeBoost.
 ### Repository Navigation
