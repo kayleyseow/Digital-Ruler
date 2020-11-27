@@ -22,7 +22,11 @@ This repository contains my code to make the Digital Ruler using an Arduino Uno,
   - You need 8 to control the 8 different parts of the Seven-Segment Display (7 segments + 1 for decimal point)
 - 14 Jumper Wires (MM)
 ## Photos and Demo
-## Project Presentation
+- **Setup and Test of the HC-SR04 Sensor.** Left to Right: Top view of HC-SR04 Sensor, Sensor Setup with Data on Monitor, Top View of the Sensor Setup.  
+<img src="Assets/HCSTopView.jpg" alt="Photo of HC-SR04 Sensor, Top View" width=25%/> <img src="Assets/HCSSetupMonitor.jpg" alt="Photo of HC-SR04 Sensor Setup With Data Displayed on Monitor" width=25%/> <img src="Assets/HCSSetupTopView.jpg" alt="Photo of HC-SR04 Sensor Setup, Top View" width=44.5%/>  
+- **Testing the Four Seven-Segment Display.** Left to Right: Top View of FSSD, Testing the first digit of the FSSD, Testing all the digits of the FSSD, Combining both HC-SR04 Sensor and the Four Seven Segment Display (at this point the FSSD was not displaying the correct numbers).  
+<img src="Assets/FSSDTestSetup.jpg" alt="Photo of the Four Seven-Segment Display, Top View" width=25%/>  <img src="Assets/FSSDTestSingle.gif" alt="Testing First Digit of the Four Seven-Segment Display" width=18.75%/> <img src="Assets/FSSDTestAll.gif" alt="Testing All of the Digits of the Four Seven-Segment Display" width=18.75%/>  <img src="Assets/HCSFSSDCombined.jpg" alt="Combining both the HC-SR04 Sensor and the Four Seven Segment Display" width=25%/>  
+## Project Presentation ([Original Presentation](https://docs.google.com/presentation/d/1VwwwHEZ5v6SXcvky2djR5PzdAo9MC7fsc8c-qGKIjgI/edit?usp=sharing))
 ### Arduino Interface
 - Arduino has its own open source IDE which sends code to the connected Arduino board
 - I coded my project in C++, because that is the language which the Arduino can run on (it was a bit of a challenge for me)
@@ -45,7 +49,7 @@ This repository contains my code to make the Digital Ruler using an Arduino Uno,
 - The the input is a 10 microseconds ttl pulse
   - By the way, ttl stands for transistor transistor logic
 - Needs 5 volts to run, thus connected to the five volt pin
-### The Process: 
+### The Process:
 ### 1. Setup and test the HC-SR04 sensor
 - The echo and the trigger pins are connected to pins 2 and 3
 - The ground and voltage is also connected to the ground and the 5 volt
