@@ -47,7 +47,7 @@ This repository contains my code to make the Digital Ruler using an Arduino Uno,
 - Resistors help to determine brightness, so a large resistor is not as bright, vice versa
   - Explained by the equation current = voltage/resistance
 - The main thing about this display is to control the current
-- The logic behind a four seven segment display is that you need to switch between all the digits really quickly in order to give the illution of a stable display, something like a flipbook
+- The logic behind a four seven segment display is that you need to switch between all the digits really quickly in order to give the illusion of a stable display, something like a flipbook
 ### Accessories - HC-SR04 
 - Measures from 2cm to 4 meters
 - Receives and puts out signals to detect the length
