@@ -13,7 +13,7 @@ This repository contains my code to make the Digital Ruler using an Arduino Uno,
 - [```Test2.ino```](https://github.com/kayleyseow/Digital-Ruler/blob/master/Accessory%20Tests/Four%20Seven-Segment%20Display%20Tests/Test2.ino) is the second four seven-segment test file. This file tests all the digits together.
 ### Materials List
 - 1 Arduino Uno
-  - I borrowed it from Mr. B, which came in a kit from [Vilros](vilros.com).  
+  - I borrowed it from Mr. B, which came in a kit from [Vilros](https://vilros.com/).  
 - 1 Breadboard
 - 1 Four Seven-Segment Display
 - 1 HC-SR04 Sensor
